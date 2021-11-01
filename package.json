@@ -1,0 +1,25 @@
+{
+  "name": "ewt4",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBE1210/EWT4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBE1210/EWT4/issues"
+  },
+  "homepage": "https://github.com/BBE1210/EWT4#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "browserify-css": "^0.15.0",
+    "jquery": "^3.6.0",
+    "particlesjs": "^2.2.3"
+  },
+  "description": ""
+}

@@ -1,0 +1,30 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+  background-color: black;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+.carousel.item{
+  height: 300px;
+}
+
+.item img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+  height: 300px;
+}
+.img {
+height: 300px !important;
+}
